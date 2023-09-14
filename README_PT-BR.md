@@ -13,3 +13,7 @@
 ## Description:
 
 Repositório destinatinado a publicação de projetos, principalmente em Javascript, assim como HTML e CSS, realizados em bootcamps, cursos e atividades relacionadas
+
+## Projetos:
+
+- BRFlix: Serviço de streaming nacional
