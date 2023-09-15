@@ -16,4 +16,5 @@ Repositório destinatinado a publicação de projetos, principalmente em Javascr
 
 ## Projetos:
 
-- BRFlix: Serviço de streaming nacional
+- <a href="https://github.com/rafaelrvital/Javascript-Trainning/tree/main/BRFlix">BRFlix - Serviço de streaming nacional</a>
+- <a href="https://github.com/rafaelrvital/Javascript-Trainning/tree/main/bootcamp-TakeABlip">Bootcamp - Take a blip!</a>

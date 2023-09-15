@@ -16,4 +16,5 @@ This repository is intended for publishing projects, mainly in Javascript, as we
 
 ## Projects:
 
-- BRFlix: Brazilian streaming service
+- <a href="https://github.com/rafaelrvital/Javascript-Trainning/tree/main/BRFlix">BRFlix - Brazilian streaming service</a>
+- <a href="https://github.com/rafaelrvital/Javascript-Trainning/tree/main/bootcamp-TakeABlip">Bootcamp - Take a blip!</a>
