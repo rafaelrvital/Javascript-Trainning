@@ -13,7 +13,7 @@ Brazilian Streaming Service
 
 ![Tag da Liguagem](https://img.shields.io/badge/Visual%20Studio%20Code-HTML%20%7C%20CSS%20%7C%20Javascript-orange)
 
-## Descrição:
+## Description:
 
 BRFlix is a Netflix clone, recreated using HTML, CSS and Javascript. Its purpose is to be a streaming service containing only brazilian content.
 

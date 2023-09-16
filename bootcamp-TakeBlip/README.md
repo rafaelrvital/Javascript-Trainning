@@ -1,4 +1,4 @@
-<a href="https://github.com/rafaelrvital/Javascript-Trainning/blob/main/bootcamp-TakeABlip/README_PT-BR.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/br.png" width="25" align="right" title="Mudar para português"></a>
+<a href="https://github.com/rafaelrvital/Javascript-Trainning/blob/main/bootcamp-TakeBlip/README_PT-BR.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/br.png" width="25" align="right" title="Mudar para português"></a>
 
 <br>
 
@@ -6,7 +6,9 @@
 
 # Bootcamp - Take A Blip
 
-</div>
+Órbi Academy Techboost program
+
+</div><br>
 
 ![Tag da Liguagem](https://img.shields.io/badge/Visual%20Studio%20Code-HTML%20%7C%20CSS%20%7C%20Javascript-orange)
 

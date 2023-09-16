@@ -8,8 +8,6 @@
 
 </div>
 
-![Tag da Liguagem](https://img.shields.io/badge/Visual%20Studio%20Code-Javascript-orange)
-
 ## Description:
 
 This repository is intended for publishing projects, mainly in Javascript, as well as HTML and CSS, carried out in bootcamps, courses and related activities.
